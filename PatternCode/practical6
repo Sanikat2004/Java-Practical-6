@@ -39,7 +39,8 @@ class Pattern{
                             } 
                        } 
                         System.out.print("\n");
-                   }  
+                   }
+                   System.out.print("\n");
                 } 
          //Pattern2       
 	void displaypattern2(int size)
@@ -68,6 +69,7 @@ class Pattern{
                 }
                 System.out.print("\n");
              } 
+            System.out.print("\n");
            }
         //pattern3  
 	void displaypattern3(int size)
